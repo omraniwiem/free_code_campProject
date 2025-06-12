@@ -4,8 +4,10 @@
 	"author": "wiemomrani",
 
 	"description": "A simple Node app built .",
-	
-	"keywords": [ "freecodecamp", "microservice", "guide" ]
+
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
+
+	"license": "exemple",
 
 	"author": "omraniwiem"
 
