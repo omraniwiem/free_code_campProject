@@ -1,7 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+
 	"author": "wiemomrani",
 	"description": "A simple Node app built .",
+
+	"author": "omraniwiem"
+
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
@@ -13,6 +17,7 @@
 	  "node": "8.11.2"
 	},
 	"repository": {
+
 	  "type": "git",
 	  "url": "https://github.com/omraniwiem/fcc-learn-npm-package-json.git"
 	}
