@@ -15,9 +15,11 @@
 
 	"dependencies": {
 	  "express": "^4.14.0",
-	   "package-name": "version"
+	  "package-name": "version",
+	  "@freecodecamp/example": "1.2.13"
      
 	}
+
 	"main": "server.js",
 	"scripts": {
 	  "start": "node server.js"
