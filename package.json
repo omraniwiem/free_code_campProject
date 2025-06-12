@@ -1,15 +1,19 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "omrani wiem"
+	"author": "wiemomrani",
+	"description": "A simple Node app built .",
 	"dependencies": {
-		"express": "^4.14.0"
+	  "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+	  "start": "node server.js"
+	},
+	"engines": {
+	  "node": "8.11.2"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	  "type": "git",
+	  "url": "https://github.com/omraniwiem/fcc-learn-npm-package-json.git"
 	}
-}
+  }
